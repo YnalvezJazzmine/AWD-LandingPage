@@ -2,7 +2,10 @@
 const projects = [
     { name: "Jumping Letters" },
     { name: "Notification Bell" },
-    { name: "Scroll Indicator" }
+    { name: "Scroll Indicator" },
+    { name: "Pet Adoption" },
+    { name: "Calculator" },
+    { name: "Everyday" }
 ];
 
 {
