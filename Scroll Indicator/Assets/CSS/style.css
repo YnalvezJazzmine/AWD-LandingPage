@@ -1,0 +1,131 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    }
+    
+    body {
+    background: linear-gradient(90deg, #3d7bcc 0%, #fca4fc 100%);
+    font-family: 'Courier New', Courier, monospace;   }
+    
+    .indicator {
+    background: linear-gradient(90deg, #fca4fc 0%, #3d7bcc 100%);
+    height: 10px;
+    border-radius: 10px;
+    width: 20%;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    }
+    
+    .text {
+    color: rgb(169, 123, 196);
+    line-height: 8rem;
+    text-align: center;
+    }
+    
+    .text span {
+    background: rgb(255, 255, 255);
+    padding: 1rem 2rem;
+    border-radius: 10px;
+    box-shadow:
+    0px 2px 4px rgb(255, 255, 255),
+    0px 6px 10px rgb(255, 255, 255),
+    0px 15px 20px rgb(255, 255, 255);
+    margin: 0.5rem;
+    font-size: 8rem;
+    display: inline-block;
+    transition: transform 0.5s ease-in-out;
+    width: 150px;
+    }
+    
+    .text span:hover {
+    transform: scale(1.1, 1.1);
+    * {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+body {
+background: linear-gradient(90deg, #3d7bcc 0%, #fca4fc 100%);
+}
+
+.indicator {
+background: linear-gradient(90deg, #fca4fc 0%, #3d7bcc 100%);
+height: 10px;
+border-radius: 10px;
+width: 20%;
+position: fixed;
+top: 0;
+z-index: 1;
+}
+
+.text {
+color:  rgb(169, 123, 196);
+line-height: 8rem;
+text-align: center;
+}
+
+.text span {
+background: rgb(255, 255, 255);
+padding: 1rem 2rem;
+border-radius: 10px;
+box-shadow:
+0px 2px 4px rgb(255, 255, 255),
+0px 6px 10px rgb(255, 255, 255),
+0px 15px 20px rgb(255, 255, 255);
+margin: 0.5rem;
+font-size: 8rem;
+display: inline-block;
+transition: transform 0.5s ease-in-out;
+width: 150px;
+}
+
+.text span:hover {
+transform: scale(1.1, 1.1);
+}body {
+    background-color: #ffffff; 
+    background-image: linear-gradient(to bottom, #1e1e1e, #000000); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.indicator {
+    background-color: #ffffff; 
+}
+
+.text {
+    color:  rgb(169, 123, 196);
+    line-height: 8dvh;
+    text-align: center;
+}
+
+.text span {
+    background-color: #ffffff;
+    padding: 1rem 2rem;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.21);
+} 
+    }
+    body {
+    background-color: #ffffff;
+}
+
+.indicator {
+    background-color: #ffffff; 
+}
+
+.text {
+    color: rgb(169, 123, 196);
+    line-height: 8rem;
+    text-align: center;
+}
+
+.text span {
+    background-color: #ffffff; 
+    padding: 1rem 2rem;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.21);
+}
