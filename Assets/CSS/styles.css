@@ -67,6 +67,27 @@ ul li.project3 {
    
 }
 
+ul li.project4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: #c3edbf; 
+   
+}
+
+ul li.project5 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: #b8dfe6; 
+   
+}
+
+ul li.project6 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: #c5bbde; 
+   
+}
+
 
 ul li:hover {
     background-color: #84d7f8; 
